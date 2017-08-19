@@ -12,10 +12,10 @@
 
 * 名前: 羽深 修 (はぶか おさむ)
 * 所属
-** 日本Eucalyptusユーザ会
-** 日本Henchman使ってみる会
-** 日本goss使ってみる会
-** 日本fission使ってみる会
+  * 日本Eucalyptusユーザ会  
+  * 日本Henchman使ってみる会
+  * 日本goss使ってみる会
+  * 日本fission使ってみる会
 
 ---
 
